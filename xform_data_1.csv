@@ -1,0 +1,6 @@
+lat1,long1,lat2,long2,lat3,long3,var1,var2,name,email
+0,30,-30,45,1,0,"""RocketML""","""i live IN ChiCago""",john smith,johns@gmail.com
+20,-30,30,-45,0,1,"""rocketml""","""i liVe    IN ChiCaGo""",john smith,sjohn@ec.com
+1,0,-1,0,0,1,"""RocketML""","""Ro CKE t ML""",john smith,jsmith@er.com
+1,2,-1,2,0,1,"""abcdefg""","""abcefg""",john smith,smithj@ed.com
+52.229676,21.012229,52.406374,16.925168,-54.22675,19.754324,"""rocketml""","""i liVe    IN ChiCaGo""",john smith,johnsmith@dfs
