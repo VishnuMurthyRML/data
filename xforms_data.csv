@@ -1,0 +1,6 @@
+﻿city,epoch_var,vel_base_var,vel_cnt,lat1,long1,lat2,long2,var1,var2,num1,num2,email,string
+Hyderabad,1655162815,xyz,100,0,30,-30,45,xyz,XYZ,100,500,johns@gmail.com,abc
+Delhi,1655161228,abc,200,20,-30,30,-45,ab234,AB2345,5,20,sjohn@ec.com,"abd,def,xyz"
+Mumbai,1655161228,tre,500,1,0,-1,0,abcd,cdba,254,100,jsmith@er.com,"def,xyz"
+Hyderabad,1655172815,TRUE,1000,1,2,-1,2,asdf,adf,500,250,smithj@ed.com,1234
+Delhi,1655162515,FALSE,2000,52.229676,21.012229,52.406374,16.925168,rtux,Rtux,10,100,johnsmith@dfs,"abc,de"
